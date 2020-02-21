@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.referencedLibraries": [
+			"/usr/lib/*.jar",
+			"/Users/pepopov/.m2/repository/**/*.jar"
+		],
+		"java.dependency.syncWithFolderExplorer": true,
+		"java.configuration.updateBuildConfiguration": "interactive",
+	}
+}
